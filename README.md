@@ -28,8 +28,8 @@ Type "{decdemo}" in the textbox if you want to listen to the DEC Command mode de
 ### Properties section: Mode
 Press the button next to "Mode:" to change VoonTalk's mode
 
-Normal: VoonTalk reads out loud the contents of the textbox as normal.
-DEC Command: Allows you to enter DECtalk commands. (Almost) full support is present.
+- Normal: VoonTalk reads out loud the contents of the textbox as normal.
+- DEC Command: Allows you to enter DECtalk commands. (Almost) full support is present.
 
 ### Properties section: Pitch
 Default pitch is 0. Max pitch is around 350. You can also set the pitch to a negative number.

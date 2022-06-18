@@ -36,5 +36,8 @@ Default pitch is 0. Max pitch is around 350. You can also set the pitch to a neg
 
 ## Messing with Voon
 - Set the pitch to 1000 and make it say "aeaeaeaeaeaeaeae" or "a e. a e. a e." You'll hear Voon turn into an alarm.
-- Type a letter next to a character it doesn't understand (like a number or a foreign symbol *ñ*) in the textbox and repeat the pattern multiple times. (e.g. a1a1a1a1a1a1a1a1) This will cause Voon to bypass its double-letter rule. Pretty effective for giving it a seizure.
+- Type a letter next to a character it doesn't understand (like a number or a símbolo extranjero *ñ*) in the textbox and repeat the pattern multiple times. (e.g. a1a1a1a1a1a1a1a1) This will cause Voon to bypass its double-letter rule. Pretty effective for giving it a seizure.
 - Voon has the same SOI SOI SOI disease as Microsoft Sam. It CAN say SOY correctly though.
+
+Ultimate seizure word:
+a1a1a1a1a1a1a1a1e1e1e1e1e11e1e1e1e1e1e 1e1r1r1r1t11y1hb1n1k11oi1211k11k11k1k1k1k1k11j1j1j1j11h1h1h1h1h1h1h1g1g1g1g1g11f1c1d1c11v1c11c1c1c1c11b11b1b1b1b1n1n1n11n1n1n1n1n1n1n1n1n1n1e2e2e2e2e2e2e2e2e3e3e3r3r3r3r3r3r3r3r3r3r3r3ry44y4y4y4y4y4y4y4y4y4y4y4

@@ -1,7 +1,7 @@
 # voon-tts
 [![Netlify Status](https://api.netlify.com/api/v1/badges/93f30fc2-b222-4e90-9914-758911323b5c/deploy-status)](https://app.netlify.com/sites/voontalk/deploys)
 
-A text-to-speech app with an API which generates voices out of nowhere.
+A simple text-to-speech app which generates voices out of nowhere.
 You can make it say anything you want, but these sentences/words are the ones that work better (there are probably even more):
 
 - This is a test

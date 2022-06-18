@@ -33,3 +33,8 @@ Press the button next to "Mode:" to change VoonTalk's mode
 
 ### Properties section: Pitch
 Default pitch is 0. Max pitch is around 350. You can also set the pitch to a negative number.
+
+## Messing with Voon
+- Set the pitch to 1000 and make it say "aeaeaeaeaeaeaeae" or "a e. a e. a e." You'll hear Voon turn into an alarm.
+- Type a letter next to a character it doesn't understand (like a number or a foreign symbol *ñ*) in the textbox and repeat the pattern multiple times. (e.g. a1a1a1a1a1a1a1a1) This will cause Voon to bypass its double-letter rule. Pretty effective for giving it a seizure.
+- Voon has the same SOI SOI SOI disease as Microsoft Sam. It CAN say SOY correctly though.
